@@ -1,0 +1,2 @@
+docker build --tag cash_management_django .
+docker run --publish 8000:8000 python-django
