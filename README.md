@@ -58,6 +58,11 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 We value collaborative effort and believe that the diversity of ideas can lead to groundbreaking innovations. We welcome contributions of all sizes and encourage the sharing of insights that could propel this project to greater heights. Let's build something remarkable together!
 
+## 🙏 Acknowledgments
+
+- [**Quera**](https://github.com/QueraTeam) for holding this college and support students.
+
+- The Quera college community for sharing their knowledge and res
 #
 © 2023 Quera college Technical project.
 
