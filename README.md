@@ -8,7 +8,7 @@
 # :pushpin: Introduction
 
 Quera asked us to design and implement the backend part of a financial exchange site using Django.
-In this design, we should be able to have exchanges within the network with the ability to accurately record the details of each transaction
+In this design, we should be able to have exchanges within the network with the ability to accurately record the details of each transaction.
 
 ##  :dart:Goals
 
