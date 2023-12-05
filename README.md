@@ -64,5 +64,5 @@ We value collaborative effort and believe that the diversity of ideas can lead t
 
 - The Quera college community for sharing their knowledge and res
 #
-© 2023 Quera college Technical project.
+© 2023 Quera college Technical project/All rights reserved
 
